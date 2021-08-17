@@ -1,4 +1,4 @@
-print("helo bois, welkom to da calculator: ")
+print("helo, welkom to da calculator: ")
 no1 = int(input("enter a number: \n"))
 no2 = int(input("enter another number: \n"))
 operator = input("enter a operator (+ , -, /, *): \n")
